@@ -1,0 +1,13 @@
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\bin\Debug\WindowsCalculator.exe.config
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\bin\Debug\WindowsCalculator.exe
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\bin\Debug\WindowsCalculator.pdb
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\bin\Debug\CalculatorEngine.dll
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\bin\Debug\CalculatorEngine.pdb
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\WindowsC.BA9E91F8.Up2Date
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\WindowsCalculator.exe
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\WindowsCalculator.pdb
+C:\Users\Swiborg\Downloads\Calc_Starter\Calc_Starter\obj\Debug\SimpleCalculator.EngeneerForm.resources
